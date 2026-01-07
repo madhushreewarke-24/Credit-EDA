@@ -19,3 +19,5 @@ approval.
 into applicants’ credit behavior. 
 6. In order to determine what distinguishes defaulters from non-defaulters.
 
+# Dataset Used 
+<img width="1903" height="856" alt="Screenshot 2025-09-04 010545" src="https://github.com/user-attachments/assets/db7c855e-71c7-41ca-8677-b87dfa212a42" />
